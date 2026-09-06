@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Nisarga
 
-<!--
-**nisarga1r/nisarga1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Java & Python Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm an aspiring software developer passionate about programming, problem-solving, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+* 🎓 Aspiring Software Developer
+* 💻 Interested in Software Development
+* ☕ Passionate about Java programming
+* 🐍 Exploring Python programming
+* 🌱 Continuously learning and improving my skills
+* 🚀 Interested in building useful software applications
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql" />
+</p>
+
+* Java
+* Python
+* HTML
+* CSS
+* SQL
+
+---
+
+## 🌱 Currently Exploring
+
+* Software Development
+* Programming Concepts
+* Backend Technologies
+* Building Projects
+
+---
+
+## 🎯 My Focus
+
+* Writing clean and efficient code
+* Strengthening programming fundamentals
+* Building practical projects
+* Learning new technologies
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [apj3356@gmail.com](mailto:apj3356@gmail.com)
+
+---
+
+### 💭 My Motto
+
+> "Keep learning, keep building, and improve every day."
+
+⭐ Thanks for visiting my GitHub profile!
